@@ -1,6 +1,8 @@
 machine:
+  timezone:
+    America/Los_Angeles
   java:
-    version: openjdk7
+    version: 1.8.0_112
     
 dependencies:
    post:
