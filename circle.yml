@@ -11,5 +11,5 @@ dependencies:
     - meteor npm install        
 
 test:
-	pre:
-		- src/automationFramework/FirstTestCase.java
+   pre:
+    - src/automationFramework/FirstTestCase.java
