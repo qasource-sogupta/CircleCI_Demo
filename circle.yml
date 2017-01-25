@@ -9,5 +9,5 @@ dependencies:
             background: true
             
 test:
-   pre:
-      - src/automationFramework/FirstTestCase.java 
+   override:
+      - sh build.sh 
