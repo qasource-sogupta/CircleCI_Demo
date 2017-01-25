@@ -10,5 +10,4 @@ dependencies:
             
 test:
    pre:
-   	  - sudo chmod +x src/automationFramework/FirstTestCase.java
-	  - src/automationFramework/FirstTestCase.java 
+   	  src/automationFramework/FirstTestCase.java 
