@@ -10,4 +10,4 @@ dependencies:
             
 test:
 	pre:
-		- ./src/automationFramework/FirstTestCase.java 
+		- src/automationFramework/FirstTestCase.java 
